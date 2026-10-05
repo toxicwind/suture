@@ -43,5 +43,5 @@ outputs:
   conflict-count:
     description: 'Number of files with conflicts'
 runs:
-  using: 'node20'
+  using: 'node24'
   main: 'index.js'
