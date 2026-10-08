@@ -1,0 +1,19 @@
+# Suture semantic merge drivers
+*.json merge=json
+*.jsonl merge=json
+*.yaml merge=yaml
+*.yml merge=yaml
+*.toml merge=toml
+*.xml merge=xml
+*.xsl merge=xml
+*.svg merge=xml
+*.csv merge=csv
+*.tsv merge=csv
+*.md merge=md
+*.markdown merge=md
+*.docx merge=docx
+*.docm merge=docx
+*.xlsx merge=xlsx
+*.xlsm merge=xlsx
+*.pptx merge=pptx
+*.pptm merge=pptx
